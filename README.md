@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annihilate</h1>  
 <h3 align="center">A dumb self-proclaimed coder.</h3>  
-
-https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/pfp.svg
   
 - 🔭 I’m currently working on [NOTHING.](https://helenkellersimulator.org/)  
   
