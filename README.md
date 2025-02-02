@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annihilate</h1>  
 <h3 align="center">A dumb self-proclaimed coder.</h3>  
+
+https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/pfp.svg
   
 - 🔭 I’m currently working on [NOTHING.](https://helenkellersimulator.org/)  
   
@@ -15,4 +17,4 @@
   My stats (They are the most unnoteworthy stats to have ever graced this earth):
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annihilate2479&show_icons=true&locale=en" alt="annihilate2479" /></p>
 
-Thank you for reading the most generic and garbage github README.md to have ever existed.
+Thank you for reading the most generic and garbage GitHub README.md to have ever existed.
