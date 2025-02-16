@@ -18,4 +18,4 @@
 Thank you for reading the most generic and garbage GitHub README.md to have ever existed.
 
 <h1 align="center">Credits</h1> 
-Icons for this README were taken from the amazing project that is simple-icons! They are absolutely amazing, I would recommend checking them out.
+Icons for this README were taken from the amazing project that is simple-icons! They are amazing, I would recommend checking them out.
