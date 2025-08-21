@@ -8,7 +8,7 @@
   
 <h3 align="left">Connect with me on these platforms or don't:</h3>  
 <p align="left">  
-<a href="https://www.youtube.com/annihilate2479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="annihilate2479" height="30" width="40" /></a>  
+<a href="https://www.youtube.com/@annihilate2479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@annihilate2479" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools that I use (Note: I did not say proficient in):</h3>  
